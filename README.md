@@ -1,3 +1,3 @@
 # jproxy
 
-JPS - Just Proxy Service
+jps - Just Proxy Service
